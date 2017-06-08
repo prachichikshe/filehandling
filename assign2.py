@@ -5,6 +5,6 @@ def file_read(fname, nlines):
         with open(fname) as f:  
                 for line in islice(f, nlines):  
                         print(line)  
-file_read('pc.txt',2)
+file_read('pc.txt',1)
 #----------------------------------
 '''Output'''

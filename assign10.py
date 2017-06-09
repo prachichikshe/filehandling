@@ -4,4 +4,4 @@ statinfo = os.stat('pc.txt')
 print statinfo.st_size
 
 '''Output
-309'''
+45'''

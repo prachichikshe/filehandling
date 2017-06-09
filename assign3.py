@@ -11,4 +11,6 @@ print str
 fo.close()
 
 
-'''Output'''
+'''Output
+Hii..!!prachihereappended file contentbye
+'''

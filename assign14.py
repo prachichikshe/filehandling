@@ -5,4 +5,6 @@ lines = open('pc.txt').read().splitlines()
 myline =random.choice(lines)
 print(myline)
 
-'''Output'''
+'''Output
+It is the second largest metropolitan area in the European Union. 
+'''

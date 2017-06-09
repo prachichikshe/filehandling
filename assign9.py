@@ -1,6 +1,6 @@
 #Write a Python program to count the frequency of words in a file. 
 
-file=open("text.txt","r+")
+file=open("pc.txt","r+")
 wordcount={}
 for word in file.read().split():
     if word not in wordcount:

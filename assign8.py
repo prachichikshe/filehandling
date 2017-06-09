@@ -8,5 +8,6 @@ for word in text.split():
        longest_word = word
 print( "The longest word is %s" % longest_word )
 
-'''Output'''
+'''Output
+The longest word is dancing '''
 

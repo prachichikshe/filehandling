@@ -9,6 +9,7 @@ for word in file.read().split():
         wordcount[word] += 1
 for a in wordcount.items():
     print a
- 
- 
- '''Output'''
+
+'''
+output:
+'''
